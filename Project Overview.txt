@@ -1,0 +1,8 @@
+The following will be analyzed from insurance.csv:
+
+	1. Average age of the patients.
+	2. Number of males and females counted within the dataset. 
+	3. Geographical location of the patients. 
+	4. Create a dictionary that contains all patient information.
+	5. Average BMI of male vs. female patients.
+	6. Average annual medical charges for smokers vs. non-smokers.
